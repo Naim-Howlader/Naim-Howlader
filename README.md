@@ -1,16 +1,37 @@
-### Hi there 👋
+![Web developer](https://scontent.fcgp31-1.fna.fbcdn.net/v/t39.30808-6/354639381_1329258194293417_4329858466428622386_n.jpg?stp=dst-jpg_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=e3f864&_nc_ohc=iqyT37GNDDYAX9pGTPi&_nc_ht=scontent.fcgp31-1.fna&oh=00_AfBXMOgwu1BVlcrRIkuor7JEzVhHsN60f2G_fLeOBrdYVA&oe=6492D4A3)
+### Hi there 👋, I'm Naim Howlader
+#### Web developer
 
 
-**Naim-Howlader/Naim-Howlader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+👋 Hello there! I'm Naim Howlader, a passionate Laravel web developer with a love for crafting efficient and scalable web applications. I thrive in the dynamic world of web development, constantly seeking new challenges and opportunities to expand my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔧 I am well-versed in implementing best practices and industry standards to ensure the security, performance, and maintainability of my code. I pay attention to every detail and take pride in writing clean, modular, and easily maintainable code. I also have experience with version control systems like Git, which allows me to collaborate seamlessly with team members.
+
+✨ I believe in the importance of teamwork and effective communication. I enjoy collaborating with cross-functional teams, including designers, project managers, and stakeholders, to deliver high-quality solutions that exceed expectations. 
+
+
+Let's build amazing web experiences together! 🌐✨
+
+
+Skills: HTML / CSS / TAILWIND / JS / JQUERY / PHP / LARAVEL
+
+- 🔭 I’m currently working on Authentic Ecos 
+- 🌱 I’m currently learning Javascript 
+- 💬 Ask me about Web design and  development 
+- 📫 How to reach me: Knock me in facebook 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naim-Howlader)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naimhowlader//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/people/Naim-Howlader/pfbid05A62Kj8CfGMU7tSR2AfpotpFerf1mr6gipxjJVpbdeRgG8jUt3gQy5MZAu3tE7Dml/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naim-Howlader)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naim-Howlader)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Naim-Howlader&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Naim-Howlader)  
 
