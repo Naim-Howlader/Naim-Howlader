@@ -34,6 +34,9 @@ Skills: HTML / CSS / TAILWIND / JS / JQUERY / PHP / LARAVEL
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
 <h3 align="left">Connect with me:</h3>
+
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Naim-Howlader)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/naimhowlader//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/people/Naim-Howlader/pfbid05A62Kj8CfGMU7tSR2AfpotpFerf1mr6gipxjJVpbdeRgG8jUt3gQy5MZAu3tE7Dml/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Naim-Howlader)](https://github.com/ryo-ma/github-profile-trophy)
