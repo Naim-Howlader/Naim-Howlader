@@ -17,7 +17,7 @@ Let's build amazing web experiences together! 🌐✨
 
 Skills: HTML / CSS / TAILWIND / JS / JQUERY / PHP / LARAVEL
 
-- 🔭 I’m currently working on Authentic Ecos 
+- 🔭 I’m currently working on Uptech Electronics
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Web design and  development 
 - 📫 How to reach me: Knock me in facebook
