@@ -1,4 +1,4 @@
-![Web developer](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)
+![Web developer](https://assets-global.website-files.com/6410ebf8e483b5bb2c86eb27/6410ebf8e483b53d6186fc53_ABM%20College%20Web%20developer%20main.jpg)
 ### Hi there 👋, I'm Naim Howlader
 #### Web developer
 
