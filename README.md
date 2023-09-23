@@ -1,4 +1,4 @@
-![Web developer](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+![Web developer](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif)
 ### Hi there 👋, I'm Naim Howlader
 #### Web developer
 
