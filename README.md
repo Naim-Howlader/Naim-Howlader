@@ -1,4 +1,4 @@
-![Web developer]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fegno.com%2Fsolutions%2Fweb-development-company-in-kochi%2F&psig=AOvVaw0Ledqg4MeEkyQAazHfVqsM&ust=1751274330024000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDx-Kejlo4DFQAAAAAdAAAAABAK](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif))
+![Web developer](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)
 ### Hi there 👋, I'm Naim Howlader
 #### Web developer
 
